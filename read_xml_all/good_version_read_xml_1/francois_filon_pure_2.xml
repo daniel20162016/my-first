@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE SHOW PUBLIC "-//VOXOLAB//DTD XML v2.0//EN"
+      "http://docs.voxolab.com/voxolab-xmlv2.dtd">
+<show name="franois_filon_pure_2_fc999ead_4509_42b7_b1ad_184dfd24aebb">
+    <sentence end="4.69" speaker="S0" gender="Male" start="0.00" type="Studio">
+        <word length="0.12" score="1.00" value="le" start="0.35">
+            <prop value="le" score="1.00"/>
+        </word>
+        <word length="0.43" score="0.616" value="G20" start="0.47">
+            <prop value="g20" score="0.616"/>
+            <prop value="vingt" score="0.384"/>
+        </word>
+        <word length="0.29" score="1.00" value="devra" start="0.9">
+            <prop value="devra" score="1.00"/>
+        </word>
+        <word length="0.14" score="1.00" value="pas" start="1.19">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.11" score="1.00" value="se" start="1.33">
+            <prop value="se" score="1.00"/>
+        </word>
+        <word length="0.42" score="0.999" value="limiter" start="1.44">
+            <prop value="limiter" score="0.999"/>
+        </word>
+        <word length="0.07" score="1.00" value="à" start="1.86">
+            <prop value="à" score="1.00"/>
+        </word>
+        <word length="0.11" score="1.00" value="une" start="1.93">
+            <prop value="une" score="1.00"/>
+        </word>
+        <word length="0.39" score="1.00" value="meilleure" start="2.04">
+            <prop value="meilleure" score="1.00"/>
+        </word>
+        <word length="0.98" score="1.00" value="coordination" start="2.43">
+            <prop value="coordination" score="1.00"/>
+        </word>
+        <word length="0.17" score="1.00" value="des" start="3.45">
+            <prop value="des" score="1.00"/>
+        </word>
+        <word length="0.19" score="1.00" value="plans" start="3.62">
+            <prop value="plans" score="1.00"/>
+        </word>
+        <word length="0.05" score="1.00" value="de" start="3.81">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.58" score="1.00" value="relance" start="3.86">
+            <prop value="relance" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="20.08" speaker="S0" gender="Male" start="4.69" type="Studio">
+        <word length="0.25" score="0.926" value="ou" start="4.96">
+            <prop value="ou" score="0.926"/>
+            <prop value="où" score="0.0715"/>
+        </word>
+        <word length="0.24" score="0.998" value="un" start="5.21">
+            <prop value="un" score="0.998"/>
+        </word>
+        <word length="0.39" score="0.998" value="simple" start="5.45">
+            <prop value="simple" score="0.998"/>
+        </word>
+        <word length="0.71" score="0.996" value="agenda" start="5.84">
+            <prop value="agenda" score="0.996"/>
+        </word>
+        <word length="0.48" score="0.999" value="sur" start="6.87">
+            <prop value="sur" score="0.999"/>
+        </word>
+        <word length="0.18" score="0.999" value="la" start="7.77">
+            <prop value="la" score="0.999"/>
+        </word>
+        <word length="0.49" score="0.999" value="régulation" start="7.95">
+            <prop value="régulation" score="0.999"/>
+        </word>
+        <word length="0.44" score="0.999" value="financière" start="8.44">
+            <prop value="financière" score="0.999"/>
+        </word>
+        <word length="0.81" score="0.999" value="internationale" start="8.88">
+            <prop value="internationale" score="0.999"/>
+        </word>
+        <word length="0.14" score="0.999" value="il" start="10.09">
+            <prop value="il" score="0.999"/>
+        </word>
+        <word length="0.21" score="0.999" value="faut" start="10.23">
+            <prop value="faut" score="0.999"/>
+        </word>
+        <word length="0.07" score="0.953" value="qu'" start="10.44">
+            <prop value="qu'" score="0.953"/>
+            <prop value="que" score="0.0461"/>
+        </word>
+        <word length="0.04" score="0.998" value="à" start="10.51">
+            <prop value="à" score="0.998"/>
+        </word>
+        <word length="0.04" score="0.999" value="l'" start="10.55">
+            <prop value="l'" score="0.999"/>
+        </word>
+        <word length="0.31" score="0.999" value="occasion" start="10.59">
+            <prop value="occasion" score="0.999"/>
+        </word>
+        <word length="0.13" score="0.999" value="du" start="10.9">
+            <prop value="du" score="0.999"/>
+        </word>
+        <word length="0.12" score="0.998" value="G" start="11.03">
+            <prop value="g" score="0.998"/>
+        </word>
+        <word length="0.25" score="0.994" value="20" start="11.15">
+            <prop value="vingt" score="0.994"/>
+        </word>
+        <word length="0.20" score="0.998" value="on" start="11.4">
+            <prop value="on" score="0.998"/>
+        </word>
+        <word length="0.42" score="0.998" value="envoie" start="11.6">
+            <prop value="envoie" score="0.998"/>
+        </word>
+        <word length="0.12" score="0.999" value="des" start="12.02">
+            <prop value="des" score="0.999"/>
+        </word>
+        <word length="0.48" score="0.999" value="signaux" start="12.14">
+            <prop value="signaux" score="0.999"/>
+        </word>
+        <word length="0.20" score="0.999" value="très" start="12.71">
+            <prop value="très" score="0.999"/>
+        </word>
+        <word length="0.40" score="0.558" value="fort" start="12.91">
+            <prop value="fort" score="0.558"/>
+            <prop value="forts" score="0.441"/>
+        </word>
+        <word length="0.12" score="0.966" value="à" start="13.66">
+            <prop value="à" score="0.966"/>
+            <prop value="a" score="0.0330"/>
+        </word>
+        <word length="0.35" score="0.997" value="la" start="13.78">
+            <prop value="la" score="0.997"/>
+        </word>
+        <word length="0.48" score="0.999" value="communauté" start="14.6">
+            <prop value="communauté" score="0.999"/>
+        </word>
+        <word length="0.60" score="0.999" value="internationale" start="15.08">
+            <prop value="internationale" score="0.999"/>
+        </word>
+        <word length="0.10" score="0.999" value="il" start="16.48">
+            <prop value="il" score="0.999"/>
+        </word>
+        <word length="0.02" score="0.999" value="ne" start="16.56">
+            <prop value="ne" score="0.999"/>
+        </word>
+        <word length="0.14" score="1.00" value="faut" start="16.58">
+            <prop value="faut" score="1.00"/>
+        </word>
+        <word length="0.16" score="1.00" value="pas" start="16.72">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.43" score="1.00" value="commettre" start="16.88">
+            <prop value="commettre" score="1.00"/>
+        </word>
+        <word length="0.06" score="0.998" value="à" start="17.31">
+            <prop value="à" score="0.998"/>
+        </word>
+        <word length="0.49" score="1.00" value="Londres" start="17.37">
+            <prop value="londres" score="1.00"/>
+        </word>
+        <word length="0.18" score="0.999" value="les" start="18.69">
+            <prop value="les" score="0.999"/>
+        </word>
+        <word length="0.38" score="1.00" value="mêmes" start="18.87">
+            <prop value="mêmes" score="1.00"/>
+        </word>
+        <word length="0.57" score="0.999" value="erreurs" start="19.25">
+            <prop value="erreurs" score="0.999"/>
+        </word>
+    </sentence>
+    <sentence end="38.59" speaker="S0" gender="Male" start="20.08" type="Studio">
+        <word length="0.13" score="0.998" value="que" start="20.36">
+            <prop value="que" score="0.998"/>
+        </word>
+        <word length="0.23" score="0.951" value="celles" start="20.49">
+            <prop value="celles" score="0.951"/>
+            <prop value="celle" score="0.0463"/>
+        </word>
+        <word length="0.11" score="0.998" value="qui" start="20.72">
+            <prop value="qui" score="0.998"/>
+        </word>
+        <word length="0.09" score="0.998" value="ont" start="20.83">
+            <prop value="ont" score="0.998"/>
+        </word>
+        <word length="0.19" score="0.998" value="été" start="20.92">
+            <prop value="été" score="0.998"/>
+        </word>
+        <word length="0.34" score="0.973" value="commis" start="21.11">
+            <prop value="commis" score="0.973"/>
+            <prop value="commises" score="0.0236"/>
+        </word>
+        <word length="0.05" score="0.998" value="en" start="21.45">
+            <prop value="en" score="0.998"/>
+        </word>
+        <word length="1.13" score="0.998" value="1933" start="21.5">
+            <prop value="mille" score="0.998"/>
+        </word>
+        <word length="0.43" score="0.994" value="et" start="23.18">
+            <prop value="et" score="0.994"/>
+        </word>
+        <word length="0.01" score="0.996" value="c'" start="23.66">
+            <prop value="c'" score="0.996"/>
+        </word>
+        <word length="0.27" score="0.998" value="est" start="23.67">
+            <prop value="est" score="0.998"/>
+        </word>
+        <word length="0.11" score="0.998" value="le" start="23.94">
+            <prop value="le" score="0.998"/>
+        </word>
+        <word length="0.31" score="0.998" value="premier" start="24.05">
+            <prop value="premier" score="0.998"/>
+        </word>
+        <word length="0.46" score="0.998" value="ministre" start="24.36">
+            <prop value="ministre" score="0.998"/>
+        </word>
+        <word length="0.05" score="0.998" value="d'" start="24.82">
+            <prop value="d'" score="0.998"/>
+        </word>
+        <word length="0.11" score="0.998" value="un" start="24.87">
+            <prop value="un" score="0.998"/>
+        </word>
+        <word length="0.34" score="0.998" value="pays" start="24.98">
+            <prop value="pays" score="0.998"/>
+        </word>
+        <word length="0.22" score="0.998" value="qui" start="25.32">
+            <prop value="qui" score="0.998"/>
+        </word>
+        <word length="0.06" score="0.997" value="est" start="25.54">
+            <prop value="est" score="0.997"/>
+        </word>
+        <word length="0.81" score="0.998" value="régulièrement" start="25.6">
+            <prop value="régulièrement" score="0.998"/>
+        </word>
+        <word length="0.84" score="0.911" value="soupçonné" start="26.41">
+            <prop value="soupçonné" score="0.911"/>
+            <prop value="soupçonnés" score="0.0506"/>
+            <prop value="soupçonnée" score="0.0327"/>
+        </word>
+        <word length="0.18" score="0.998" value="de" start="27.56">
+            <prop value="de" score="0.998"/>
+        </word>
+        <word length="0.50" score="0.715" value="tentations" start="27.74">
+            <prop value="tentations" score="0.715"/>
+            <prop value="tentation" score="0.283"/>
+        </word>
+        <word length="0.45" score="0.341" value="Proxy" start="28.24">
+            <prop value="proxy" score="0.341"/>
+            <prop value="proxis" score="0.338"/>
+            <prop value="proxys" score="0.320"/>
+        </word>
+        <word length="0.96" score="0.998" value="protectionniste" start="28.91">
+            <prop value="protectionniste" score="0.998"/>
+        </word>
+        <word length="0.43" score="0.999" value="qui" start="29.87">
+            <prop value="qui" score="0.999"/>
+        </word>
+        <word length="0.20" score="0.999" value="vous" start="30.38">
+            <prop value="vous" score="0.999"/>
+        </word>
+        <word length="0.12" score="0.999" value="le" start="30.58">
+            <prop value="le" score="0.999"/>
+        </word>
+        <word length="0.43" score="0.974" value="dit" start="30.7">
+            <prop value="dit" score="0.974"/>
+            <prop value="dis" score="0.0243"/>
+        </word>
+        <word length="0.28" score="0.999" value="nous" start="32">
+            <prop value="nous" score="0.999"/>
+        </word>
+        <word length="0.08" score="0.999" value="ne" start="32.28">
+            <prop value="ne" score="0.999"/>
+        </word>
+        <word length="0.32" score="0.999" value="devons" start="32.36">
+            <prop value="devons" score="0.999"/>
+        </word>
+        <word length="0.29" score="1.00" value="pas" start="32.68">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.65" score="1.00" value="céder" start="33.03">
+            <prop value="céder" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="à" start="33.72">
+            <prop value="à" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="la" start="33.8">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.64" score="1.00" value="tentation" start="33.93">
+            <prop value="tentation" score="1.00"/>
+        </word>
+        <word length="0.19" score="1.00" value="du" start="34.62">
+            <prop value="du" score="1.00"/>
+        </word>
+        <word length="0.30" score="1.00" value="chacun" start="34.81">
+            <prop value="chacun" score="1.00"/>
+        </word>
+        <word length="0.19" score="1.00" value="pour" start="35.11">
+            <prop value="pour" score="1.00"/>
+        </word>
+        <word length="0.30" score="0.946" value="soi" start="35.29">
+            <prop value="soi" score="0.946"/>
+            <prop value="source" score="0.0479"/>
+        </word>
+        <word length="0.10" score="1.00" value="la" start="35.99">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.57" score="1.00" value="régulation" start="36.09">
+            <prop value="régulation" score="1.00"/>
+        </word>
+        <word length="0.07" score="0.860" value="ne" start="36.61">
+            <prop value="ne" score="0.860"/>
+            <prop value="de" score="0.135"/>
+        </word>
+        <word length="0.14" score="1.00" value="s'" start="36.66">
+            <prop value="s'" score="1.00"/>
+        </word>
+        <word length="0.36" score="0.852" value="opposent" start="36.8">
+            <prop value="opposent" score="0.852"/>
+            <prop value="oppose" score="0.149"/>
+        </word>
+        <word length="0.14" score="1.00" value="pas" start="37.16">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.09" score="0.887" value="aux" start="37.29">
+            <prop value="aux" score="0.887"/>
+            <prop value="au" score="0.113"/>
+        </word>
+        <word length="0.40" score="0.883" value="marchés" start="37.38">
+            <prop value="marchés" score="0.883"/>
+            <prop value="marché" score="0.116"/>
+        </word>
+        <word length="0.12" score="1.00" value="au" start="37.78">
+            <prop value="au" score="1.00"/>
+        </word>
+        <word length="0.46" score="1.00" value="contraire" start="37.9">
+            <prop value="contraire" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="49.66" speaker="S0" gender="Male" start="38.69" type="Studio">
+        <word length="0.12" score="1.00" value="la" start="38.94">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.62" score="1.00" value="régulation" start="39.06">
+            <prop value="régulation" score="1.00"/>
+        </word>
+        <word length="0.06" score="0.963" value="au" start="39.62">
+            <prop value="au" score="0.963"/>
+            <prop value="aux" score="0.0158"/>
+        </word>
+        <word length="0.35" score="0.918" value="fond" start="39.68">
+            <prop value="fond" score="0.918"/>
+            <prop value="fonds" score="0.0630"/>
+            <prop value="font" score="0.0200"/>
+        </word>
+        <word length="0.86" score="1.00" value="fiabiliser" start="40.1">
+            <prop value="fiabiliser" score="1.00"/>
+        </word>
+        <word length="0.07" score="0.994" value="le" start="40.9">
+            <prop value="le" score="0.994"/>
+        </word>
+        <word length="0.58" score="0.994" value="marché" start="40.96">
+            <prop value="marché" score="0.994"/>
+        </word>
+        <word length="0.24" score="0.871" value="elle" start="41.58">
+            <prop value="elle" score="0.871"/>
+            <prop value="elles" score="0.126"/>
+        </word>
+        <word length="0.27" score="0.968" value="le" start="41.72">
+            <prop value="le" score="0.968"/>
+            <prop value="leur" score="0.0231"/>
+        </word>
+        <word length="0.82" score="0.954" value="renforce" start="41.82">
+            <prop value="renforce" score="0.954"/>
+            <prop value="renforcent" score="0.0458"/>
+        </word>
+        <word length="0.16" score="0.998" value="il" start="43.17">
+            <prop value="il" score="0.998"/>
+        </word>
+        <word length="0.04" score="1.00" value="n'" start="43.33">
+            <prop value="n'" score="1.00"/>
+        </word>
+        <word length="0.09" score="1.00" value="y" start="43.37">
+            <prop value="y" score="1.00"/>
+        </word>
+        <word length="0.07" score="1.00" value="a" start="43.46">
+            <prop value="a" score="1.00"/>
+        </word>
+        <word length="0.37" score="1.00" value="pas" start="43.53">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.24" score="1.00" value="sur" start="43.93">
+            <prop value="sur" score="1.00"/>
+        </word>
+        <word length="0.19" score="1.00" value="cette" start="44.17">
+            <prop value="cette" score="1.00"/>
+        </word>
+        <word length="0.34" score="1.00" value="question" start="44.36">
+            <prop value="question" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="de" start="44.7">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.59" score="0.988" value="principe" start="44.78">
+            <prop value="principe" score="0.988"/>
+            <prop value="principes" score="0.0116"/>
+        </word>
+        <word length="0.43" score="1.00" value="de" start="45.9">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.37" score="1.00" value="réelles" start="46.53">
+            <prop value="réelles" score="1.00"/>
+        </word>
+        <word length="0.77" score="1.00" value="divergences" start="46.9">
+            <prop value="divergences" score="1.00"/>
+        </word>
+        <word length="0.30" score="1.00" value="entre" start="47.7">
+            <prop value="entre" score="1.00"/>
+        </word>
+        <word length="0.14" score="1.00" value="les" start="48">
+            <prop value="les" score="1.00"/>
+        </word>
+        <word length="0.48" score="0.701" value="états-Unis" start="48.14">
+            <prop value="états-unis" score="0.701"/>
+            <prop value="unis" score="0.299"/>
+        </word>
+        <word length="0.03" score="0.995" value="et" start="48.61">
+            <prop value="et" score="0.995"/>
+        </word>
+        <word length="0.11" score="1.00" value="la" start="48.64">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.57" score="1.00" value="France" start="48.75">
+            <prop value="france" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="68.88" speaker="S0" gender="Male" start="49.66" type="Studio">
+        <word length="0.10" score="1.00" value="le" start="50.03">
+            <prop value="le" score="1.00"/>
+        </word>
+        <word length="0.39" score="1.00" value="président" start="50.13">
+            <prop value="président" score="1.00"/>
+        </word>
+        <word length="0.37" score="1.00" value="Obama" start="50.52">
+            <prop value="obama" score="1.00"/>
+        </word>
+        <word length="0.06" score="0.996" value="a" start="50.83">
+            <prop value="a" score="0.996"/>
+        </word>
+        <word length="0.05" score="0.999" value="d'" start="50.89">
+            <prop value="d'" score="0.999"/>
+        </word>
+        <word length="0.25" score="0.999" value="ailleurs" start="50.94">
+            <prop value="ailleurs" score="0.999"/>
+        </word>
+        <word length="0.41" score="1.00" value="été" start="51.19">
+            <prop value="été" score="1.00"/>
+        </word>
+        <word length="0.26" score="1.00" value="très" start="51.63">
+            <prop value="très" score="1.00"/>
+        </word>
+        <word length="0.57" score="0.869" value="clair" start="51.89">
+            <prop value="clair" score="0.869"/>
+            <prop value="claire" score="0.127"/>
+        </word>
+        <word length="0.34" score="1.00" value="sur" start="52.66">
+            <prop value="sur" score="1.00"/>
+        </word>
+        <word length="0.11" score="0.523" value="ces" start="53">
+            <prop value="ces" score="0.523"/>
+            <prop value="ses" score="0.477"/>
+        </word>
+        <word length="0.45" score="1.00" value="deux" start="53.11">
+            <prop value="deux" score="1.00"/>
+        </word>
+        <word length="0.51" score="1.00" value="objectifs" start="53.56">
+            <prop value="objectifs" score="1.00"/>
+        </word>
+        <word length="0.69" score="1.00" value="fondamentaux" start="54.07">
+            <prop value="fondamentaux" score="1.00"/>
+        </word>
+        <word length="0.20" score="1.00" value="du" start="54.91">
+            <prop value="du" score="1.00"/>
+        </word>
+        <word length="0.15" score="1.00" value="G" start="55.11">
+            <prop value="g" score="1.00"/>
+        </word>
+        <word length="0.20" score="1.00" value="20" start="55.26">
+            <prop value="vingt" score="1.00"/>
+        </word>
+        <word length="0.14" score="1.00" value="que" start="55.46">
+            <prop value="que" score="1.00"/>
+        </word>
+        <word length="0.25" score="0.978" value="sont" start="55.58">
+            <prop value="sont" score="0.978"/>
+            <prop value="son" score="0.0213"/>
+        </word>
+        <word length="0.11" score="0.999" value="la" start="55.83">
+            <prop value="la" score="0.999"/>
+        </word>
+        <word length="0.36" score="1.00" value="relance" start="55.94">
+            <prop value="relance" score="1.00"/>
+        </word>
+        <word length="0.04" score="1.00" value="et" start="56.3">
+            <prop value="et" score="1.00"/>
+        </word>
+        <word length="0.09" score="1.00" value="la" start="56.34">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.69" score="1.00" value="régulation" start="56.43">
+            <prop value="régulation" score="1.00"/>
+        </word>
+        <word length="0.37" score="0.966" value="et" start="58.03">
+            <prop value="et" score="0.966"/>
+            <prop value="est" score="0.0314"/>
+        </word>
+        <word length="0.32" score="1.00" value="sur" start="58.38">
+            <prop value="sur" score="1.00"/>
+        </word>
+        <word length="0.16" score="1.00" value="son" start="58.7">
+            <prop value="son" score="1.00"/>
+        </word>
+        <word length="0.42" score="1.00" value="refus" start="58.86">
+            <prop value="refus" score="1.00"/>
+        </word>
+        <word length="0.14" score="1.00" value="de" start="59.28">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.13" score="0.998" value="ce" start="59.42">
+            <prop value="ce" score="0.998"/>
+        </word>
+        <word length="0.07" score="1.00" value="qu'" start="59.55">
+            <prop value="qu'" score="1.00"/>
+        </word>
+        <word length="0.13" score="0.718" value="il" start="59.62">
+            <prop value="il" score="0.718"/>
+            <prop value="ils" score="0.283"/>
+        </word>
+        <word length="0.03" score="0.594" value="a" start="59.75">
+            <prop value="a" score="0.594"/>
+        </word>
+        <word length="0.33" score="0.838" value="appelé" start="59.75">
+            <prop value="appelé" score="0.838"/>
+            <prop value="appelait" score="0.122"/>
+            <prop value="appelaient" score="0.0250"/>
+            <prop value="appelés" score="0.0138"/>
+        </word>
+        <word length="0.18" score="1.00" value="une" start="60.08">
+            <prop value="une" score="1.00"/>
+        </word>
+        <word length="0.41" score="0.499" value="Rice" start="60.39">
+            <prop value="rice" score="0.499"/>
+            <prop value="riis" score="0.189"/>
+            <prop value="risse" score="0.0900"/>
+            <prop value="riss" score="0.0893"/>
+            <prop value="raïs" score="0.0401"/>
+            <prop value="rist" score="0.0386"/>
+            <prop value="là" score="0.0103"/>
+        </word>
+        <word length="0.24" score="0.845" value="tout" start="60.74">
+            <prop value="tout" score="0.845"/>
+            <prop value="tous" score="0.0543"/>
+            <prop value="toutes" score="0.0347"/>
+            <prop value="où" score="0.0342"/>
+            <prop value="ou" score="0.0183"/>
+            <prop value="toute" score="0.0107"/>
+        </word>
+        <word length="0.12" score="0.792" value="ce" start="60.88">
+            <prop value="ce" score="0.792"/>
+            <prop value="se" score="0.136"/>
+            <prop value="ses" score="0.0448"/>
+        </word>
+        <word length="0.56" score="0.432" value="homme" start="60.98">
+            <prop value="homme" score="0.432"/>
+            <prop value="bonhomme" score="0.371"/>
+            <prop value="hommes" score="0.106"/>
+            <prop value="terme" score="0.0519"/>
+            <prop value="femme" score="0.0296"/>
+        </word>
+        <word length="0.13" score="1.00" value="en" start="61.85">
+            <prop value="en" score="1.00"/>
+        </word>
+        <word length="0.54" score="1.00" value="matière" start="61.98">
+            <prop value="matière" score="1.00"/>
+        </word>
+        <word length="0.75" score="0.988" value="réglementaire" start="62.56">
+            <prop value="réglementaire" score="0.988"/>
+            <prop value="réglementaires" score="0.0109"/>
+        </word>
+        <word length="0.20" score="1.00" value="parce" start="64.64">
+            <prop value="parce" score="1.00"/>
+        </word>
+        <word length="0.10" score="1.00" value="que" start="64.84">
+            <prop value="que" score="1.00"/>
+        </word>
+        <word length="0.05" score="1.00" value="l'" start="64.94">
+            <prop value="l'" score="1.00"/>
+        </word>
+        <word length="0.58" score="1.00" value="augmentation" start="64.99">
+            <prop value="augmentation" score="1.00"/>
+        </word>
+        <word length="0.09" score="1.00" value="des" start="65.57">
+            <prop value="des" score="1.00"/>
+        </word>
+        <word length="0.38" score="1.00" value="ressources" start="65.66">
+            <prop value="ressources" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="du" start="66.04">
+            <prop value="du" score="1.00"/>
+        </word>
+        <word length="0.40" score="1.00" value="FMI" start="66.17">
+            <prop value="fmi" score="1.00"/>
+        </word>
+        <word length="0.03" score="0.877" value="et" start="66.54">
+            <prop value="et" score="0.877"/>
+        </word>
+        <word length="0.17" score="1.00" value="doit" start="66.57">
+            <prop value="doit" score="1.00"/>
+        </word>
+        <word length="0.10" score="1.00" value="s'" start="66.74">
+            <prop value="s'" score="1.00"/>
+        </word>
+        <word length="0.58" score="1.00" value="accompagner" start="66.84">
+            <prop value="accompagner" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="d'" start="67.42">
+            <prop value="d'" score="1.00"/>
+        </word>
+        <word length="0.12" score="0.993" value="un" start="67.5">
+            <prop value="un" score="0.993"/>
+        </word>
+        <word length="1.02" score="1.00" value="renforcement" start="67.62">
+            <prop value="renforcement" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="71.43" speaker="S0" gender="Male" start="68.88" type="Studio">
+        <word length="0.25" score="0.981" value="de" start="69.1">
+            <prop value="de" score="0.981"/>
+            <prop value="deux" score="0.0193"/>
+        </word>
+        <word length="0.18" score="1.00" value="sa" start="69.35">
+            <prop value="sa" score="1.00"/>
+        </word>
+        <word length="0.83" score="1.00" value="légitimité" start="69.53">
+            <prop value="légitimité" score="1.00"/>
+        </word>
+        <word length="0.75" score="0.993" value="politique" start="70.36">
+            <prop value="politique" score="0.993"/>
+        </word>
+    </sentence>
+    <sentence end="79.21" speaker="S0" gender="Male" start="71.43" type="Studio">
+        <word length="0.13" score="1.00" value="nous" start="71.74">
+            <prop value="nous" score="1.00"/>
+        </word>
+        <word length="0.34" score="1.00" value="pensons" start="71.87">
+            <prop value="pensons" score="1.00"/>
+        </word>
+        <word length="0.08" score="0.976" value="qu'" start="72.21">
+            <prop value="qu'" score="0.976"/>
+            <prop value="que" score="0.0236"/>
+        </word>
+        <word length="0.09" score="1.00" value="il" start="72.29">
+            <prop value="il" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="est" start="72.38">
+            <prop value="est" score="1.00"/>
+        </word>
+        <word length="0.25" score="1.00" value="temps" start="72.46">
+            <prop value="temps" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="de" start="72.71">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.51" score="1.00" value="passer" start="72.79">
+            <prop value="passer" score="1.00"/>
+        </word>
+        <word length="0.01" score="0.796" value="à" start="73.32">
+            <prop value="à" score="0.796"/>
+        </word>
+        <word length="0.21" score="1.00" value="un" start="73.33">
+            <prop value="un" score="1.00"/>
+        </word>
+        <word length="0.66" score="1.00" value="processus" start="73.54">
+            <prop value="processus" score="1.00"/>
+        </word>
+        <word length="0.66" score="1.00" value="ouvert" start="74.23">
+            <prop value="ouvert" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="et" start="75.34">
+            <prop value="et" score="1.00"/>
+        </word>
+        <word length="0.74" score="1.00" value="transparent" start="75.47">
+            <prop value="transparent" score="1.00"/>
+        </word>
+        <word length="0.13" score="0.999" value="de" start="76.2">
+            <prop value="de" score="0.999"/>
+        </word>
+        <word length="0.81" score="0.948" value="sélection" start="76.33">
+            <prop value="sélection" score="0.948"/>
+            <prop value="élection" score="0.0389"/>
+            <prop value="sélections" score="0.0102"/>
+        </word>
+        <word length="0.18" score="0.999" value="de" start="78.01">
+            <prop value="de" score="0.999"/>
+        </word>
+        <word length="0.15" score="0.547" value="ces" start="78.19">
+            <prop value="ces" score="0.547"/>
+            <prop value="ses" score="0.452"/>
+        </word>
+        <word length="0.22" score="1.00" value="grands" start="78.34">
+            <prop value="grands" score="1.00"/>
+        </word>
+        <word length="0.45" score="0.998" value="dirigeants" start="78.56">
+            <prop value="dirigeants" score="0.998"/>
+        </word>
+    </sentence>
+    <sentence end="96.45" speaker="S0" gender="Male" start="79.62" type="Studio">
+        <word length="0.10" score="0.977" value="et" start="79.87">
+            <prop value="et" score="0.977"/>
+            <prop value="est" score="0.0197"/>
+        </word>
+        <word length="0.12" score="0.997" value="de" start="79.97">
+            <prop value="de" score="0.997"/>
+        </word>
+        <word length="0.86" score="0.998" value="renoncer" start="80.09">
+            <prop value="renoncer" score="0.998"/>
+        </word>
+        <word length="0.21" score="0.995" value="aux" start="80.97">
+            <prop value="aux" score="0.995"/>
+        </word>
+        <word length="0.58" score="0.998" value="règles" start="81.18">
+            <prop value="règles" score="0.998"/>
+        </word>
+        <word length="0.78" score="0.998" value="implicites" start="81.86">
+            <prop value="implicites" score="0.998"/>
+        </word>
+        <word length="0.16" score="0.999" value="de" start="82.76">
+            <prop value="de" score="0.999"/>
+        </word>
+        <word length="0.64" score="0.999" value="partage" start="82.92">
+            <prop value="partage" score="0.999"/>
+        </word>
+        <word length="0.17" score="0.999" value="des" start="83.61">
+            <prop value="des" score="0.999"/>
+        </word>
+        <word length="0.55" score="0.998" value="postes" start="83.78">
+            <prop value="postes" score="0.998"/>
+        </word>
+        <word length="0.09" score="0.998" value="je" start="84.92">
+            <prop value="je" score="0.998"/>
+        </word>
+        <word length="0.14" score="0.691" value="peux" start="84.98">
+            <prop value="peux" score="0.691"/>
+            <prop value="veux" score="0.306"/>
+        </word>
+        <word length="0.12" score="0.998" value="vous" start="85.12">
+            <prop value="vous" score="0.998"/>
+        </word>
+        <word length="0.20" score="0.998" value="dire" start="85.24">
+            <prop value="dire" score="0.998"/>
+        </word>
+        <word length="0.10" score="0.999" value="que" start="85.44">
+            <prop value="que" score="0.999"/>
+        </word>
+        <word length="0.06" score="0.999" value="l'" start="85.54">
+            <prop value="l'" score="0.999"/>
+        </word>
+        <word length="0.30" score="0.999" value="Europe" start="85.6">
+            <prop value="europe" score="0.999"/>
+        </word>
+        <word length="0.16" score="0.722" value="y" start="85.87">
+            <prop value="y" score="0.722"/>
+            <prop value="qui" score="0.0789"/>
+        </word>
+        <word length="0.11" score="0.968" value="est" start="85.98">
+            <prop value="est" score="0.968"/>
+        </word>
+        <word length="0.57" score="0.937" value="prête" start="86.04">
+            <prop value="prête" score="0.937"/>
+            <prop value="prêt" score="0.0611"/>
+        </word>
+        <word length="0.22" score="0.991" value="elle" start="87.09">
+            <prop value="elle" score="0.991"/>
+        </word>
+        <word length="0.27" score="0.984" value="compte" start="87.31">
+            <prop value="compte" score="0.984"/>
+            <prop value="comptent" score="0.0134"/>
+        </word>
+        <word length="0.17" score="0.999" value="sur" start="87.58">
+            <prop value="sur" score="0.999"/>
+        </word>
+        <word length="0.10" score="0.999" value="la" start="87.75">
+            <prop value="la" score="0.999"/>
+        </word>
+        <word length="0.27" score="0.999" value="même" start="87.85">
+            <prop value="même" score="0.999"/>
+        </word>
+        <word length="0.77" score="0.994" value="résolution" start="88.12">
+            <prop value="résolution" score="0.994"/>
+        </word>
+        <word length="0.18" score="0.999" value="de" start="89.29">
+            <prop value="de" score="0.999"/>
+        </word>
+        <word length="0.12" score="1.00" value="la" start="89.47">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.32" score="0.999" value="part" start="89.59">
+            <prop value="part" score="0.999"/>
+        </word>
+        <word length="0.20" score="0.999" value="des" start="89.96">
+            <prop value="des" score="0.999"/>
+        </word>
+        <word length="0.65" score="0.772" value="états-Unis" start="90.16">
+            <prop value="états-unis" score="0.772"/>
+            <prop value="états" score="0.227"/>
+        </word>
+        <word length="0.14" score="0.999" value="s'" start="90.94">
+            <prop value="s'" score="0.999"/>
+        </word>
+        <word length="0.53" score="0.999" value="agissant" start="91.08">
+            <prop value="agissant" score="0.999"/>
+        </word>
+        <word length="0.14" score="1.00" value="de" start="91.67">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="la" start="91.81">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.21" score="1.00" value="Banque" start="91.89">
+            <prop value="banque" score="1.00"/>
+        </word>
+        <word length="0.31" score="1.00" value="Mondiale" start="92.1">
+            <prop value="mondiale" score="1.00"/>
+        </word>
+        <word length="0.21" score="1.00" value="en" start="93.17">
+            <prop value="en" score="1.00"/>
+        </word>
+        <word length="1.04" score="1.00" value="Afghanistan" start="93.38">
+            <prop value="afghanistan" score="1.00"/>
+        </word>
+        <word length="0.16" score="1.00" value="il" start="94.92">
+            <prop value="il" score="1.00"/>
+        </word>
+        <word length="0.10" score="1.00" value="y" start="95.08">
+            <prop value="y" score="1.00"/>
+        </word>
+        <word length="0.07" score="1.00" value="a" start="95.18">
+            <prop value="a" score="1.00"/>
+        </word>
+        <word length="0.30" score="1.00" value="quelques" start="95.25">
+            <prop value="quelques" score="1.00"/>
+        </word>
+        <word length="0.34" score="1.00" value="mois" start="95.55">
+            <prop value="mois" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="106.14" speaker="S0" gender="Male" start="96.45" type="Studio">
+        <word length="0.15" score="1.00" value="le" start="96.9">
+            <prop value="le" score="1.00"/>
+        </word>
+        <word length="0.39" score="1.00" value="président" start="97.05">
+            <prop value="président" score="1.00"/>
+        </word>
+        <word length="0.06" score="1.00" value="de" start="97.44">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.07" score="1.00" value="la" start="97.5">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.42" score="1.00" value="République" start="97.57">
+            <prop value="république" score="1.00"/>
+        </word>
+        <word length="0.55" score="1.00" value="française" start="97.99">
+            <prop value="française" score="1.00"/>
+        </word>
+        <word length="0.36" score="0.975" value="et" start="98.54">
+            <prop value="et" score="0.975"/>
+        </word>
+        <word length="0.14" score="1.00" value="le" start="98.87">
+            <prop value="le" score="1.00"/>
+        </word>
+        <word length="0.52" score="1.00" value="gouvernement" start="99.01">
+            <prop value="gouvernement" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="que" start="99.53">
+            <prop value="que" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="je" start="99.66">
+            <prop value="je" score="1.00"/>
+        </word>
+        <word length="0.36" score="1.00" value="dirige" start="99.74">
+            <prop value="dirige" score="1.00"/>
+        </word>
+        <word length="0.08" score="0.998" value="ont" start="100.09">
+            <prop value="ont" score="0.998"/>
+        </word>
+        <word length="0.66" score="1.00" value="décidé" start="100.17">
+            <prop value="décidé" score="1.00"/>
+        </word>
+        <word length="0.17" score="1.00" value="de" start="101.29">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="1.04" score="1.00" value="renforcer" start="101.46">
+            <prop value="renforcer" score="1.00"/>
+        </word>
+        <word length="0.14" score="1.00" value="l'" start="102.68">
+            <prop value="l'" score="1.00"/>
+        </word>
+        <word length="0.45" score="1.00" value="engagement" start="102.82">
+            <prop value="engagement" score="1.00"/>
+        </word>
+        <word length="0.66" score="1.00" value="militaire" start="103.27">
+            <prop value="militaire" score="1.00"/>
+        </word>
+        <word length="0.24" score="1.00" value="de" start="104.04">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.11" score="1.00" value="la" start="104.28">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.36" score="1.00" value="France" start="104.39">
+            <prop value="france" score="1.00"/>
+        </word>
+        <word length="0.05" score="0.955" value="aux" start="104.75">
+            <prop value="aux" score="0.955"/>
+            <prop value="au" score="0.0450"/>
+        </word>
+        <word length="0.26" score="0.955" value="côtés" start="104.8">
+            <prop value="côtés" score="0.955"/>
+            <prop value="côté" score="0.0455"/>
+        </word>
+        <word length="0.07" score="1.00" value="de" start="105.06">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.21" score="1.00" value="ses" start="105.13">
+            <prop value="ses" score="1.00"/>
+        </word>
+        <word length="0.53" score="1.00" value="alliés" start="105.34">
+            <prop value="alliés" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="116.75" speaker="S0" gender="Male" start="106.14" type="Studio">
+        <word length="0.27" score="1.00" value="parce" start="106.4">
+            <prop value="parce" score="1.00"/>
+        </word>
+        <word length="0.15" score="1.00" value="que" start="106.67">
+            <prop value="que" score="1.00"/>
+        </word>
+        <word length="0.36" score="1.00" value="nous" start="106.82">
+            <prop value="nous" score="1.00"/>
+        </word>
+        <word length="0.30" score="1.00" value="sommes" start="107.56">
+            <prop value="sommes" score="1.00"/>
+        </word>
+        <word length="0.79" score="1.00" value="convaincus" start="107.86">
+            <prop value="convaincus" score="1.00"/>
+        </word>
+        <word length="0.44" score="1.00" value="que" start="108.95">
+            <prop value="que" score="1.00"/>
+        </word>
+        <word length="0.15" score="1.00" value="la" start="109.45">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.21" score="1.00" value="lutte" start="109.6">
+            <prop value="lutte" score="1.00"/>
+        </word>
+        <word length="0.28" score="1.00" value="contre" start="109.81">
+            <prop value="contre" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="le" start="110.09">
+            <prop value="le" score="1.00"/>
+        </word>
+        <word length="0.72" score="1.00" value="terrorisme" start="110.17">
+            <prop value="terrorisme" score="1.00"/>
+        </word>
+        <word length="0.15" score="0.985" value="et" start="111.41">
+            <prop value="et" score="0.985"/>
+            <prop value="est" score="0.0157"/>
+        </word>
+        <word length="0.11" score="1.00" value="la" start="111.56">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.29" score="1.00" value="lutte" start="111.67">
+            <prop value="lutte" score="1.00"/>
+        </word>
+        <word length="0.29" score="1.00" value="pour" start="112">
+            <prop value="pour" score="1.00"/>
+        </word>
+        <word length="0.11" score="1.00" value="la" start="112.29">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.74" score="1.00" value="stabilité" start="112.4">
+            <prop value="stabilité" score="1.00"/>
+        </word>
+        <word length="0.21" score="1.00" value="de" start="113.14">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.20" score="1.00" value="ce" start="113.35">
+            <prop value="ce" score="1.00"/>
+        </word>
+        <word length="0.46" score="1.00" value="pays" start="113.55">
+            <prop value="pays" score="1.00"/>
+        </word>
+        <word length="0.43" score="1.00" value="tellement" start="114.05">
+            <prop value="tellement" score="1.00"/>
+        </word>
+        <word length="0.42" score="0.507" value="meurtrie" start="114.48">
+            <prop value="meurtrie" score="0.507"/>
+            <prop value="meurtri" score="0.459"/>
+            <prop value="meurtris" score="0.0277"/>
+        </word>
+        <word length="0.09" score="1.00" value="ne" start="114.9">
+            <prop value="ne" score="1.00"/>
+        </word>
+        <word length="0.20" score="1.00" value="doit" start="114.99">
+            <prop value="doit" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="pas" start="115.19">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.15" score="1.00" value="se" start="115.32">
+            <prop value="se" score="1.00"/>
+        </word>
+        <word length="0.45" score="1.00" value="relâcher" start="115.47">
+            <prop value="relâcher" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="127.88" speaker="S0" gender="Male" start="116.75" type="Studio">
+        <word length="0.71" score="1.00" value="depuis" start="117.57">
+            <prop value="depuis" score="1.00"/>
+        </word>
+        <word length="0.25" score="1.00" value="les" start="118.3">
+            <prop value="les" score="1.00"/>
+        </word>
+        <word length="0.35" score="1.00" value="années" start="118.55">
+            <prop value="années" score="1.00"/>
+        </word>
+        <word length="0.97" score="1.00" value="90" start="118.9">
+            <prop value="quatre" score="1.00"/>
+        </word>
+        <word length="0.17" score="0.993" value="vous" start="120.48">
+            <prop value="vous" score="0.993"/>
+        </word>
+        <word length="0.27" score="0.993" value="savez" start="120.65">
+            <prop value="savez" score="0.993"/>
+        </word>
+        <word length="0.07" score="0.993" value="que" start="120.92">
+            <prop value="que" score="0.993"/>
+        </word>
+        <word length="0.11" score="0.999" value="la" start="120.99">
+            <prop value="la" score="0.999"/>
+        </word>
+        <word length="0.32" score="0.999" value="France" start="121.1">
+            <prop value="france" score="0.999"/>
+        </word>
+        <word length="0.04" score="0.535" value="s'" start="121.38">
+            <prop value="s'" score="0.535"/>
+            <prop value="c'" score="0.0126"/>
+        </word>
+        <word length="0.07" score="0.998" value="est" start="121.42">
+            <prop value="est" score="0.998"/>
+        </word>
+        <word length="1.12" score="0.999" value="progressivement" start="121.49">
+            <prop value="progressivement" score="0.999"/>
+        </word>
+        <word length="0.93" score="0.989" value="redevenu" start="122.63">
+            <prop value="redevenu" score="0.989"/>
+            <prop value="redevenue" score="0.0105"/>
+        </word>
+        <word length="0.21" score="0.999" value="un" start="124.15">
+            <prop value="un" score="0.999"/>
+        </word>
+        <word length="0.34" score="1.00" value="des" start="124.36">
+            <prop value="des" score="1.00"/>
+        </word>
+        <word length="0.68" score="1.00" value="principaux" start="125.1">
+            <prop value="principaux" score="1.00"/>
+        </word>
+        <word length="0.92" score="0.999" value="contributeurs" start="125.78">
+            <prop value="contributeurs" score="0.999"/>
+        </word>
+        <word length="0.19" score="0.999" value="de" start="126.73">
+            <prop value="de" score="0.999"/>
+        </word>
+        <word length="0.06" score="0.999" value="l'" start="126.92">
+            <prop value="l'" score="0.999"/>
+        </word>
+        <word length="0.42" score="1.00" value="OTAN" start="126.97">
+            <prop value="otan" score="1.00"/>
+        </word>
+    </sentence>
+    <sentence end="140.39" speaker="S0" gender="Male" start="127.88" type="Studio">
+        <word length="0.56" score="0.988" value="et" start="128.36">
+            <prop value="et" score="0.988"/>
+            <prop value="est" score="0.0113"/>
+        </word>
+        <word length="0.16" score="1.00" value="la" start="129.44">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.53" score="1.00" value="décision" start="129.6">
+            <prop value="décision" score="1.00"/>
+        </word>
+        <word length="0.08" score="1.00" value="que" start="130.13">
+            <prop value="que" score="1.00"/>
+        </word>
+        <word length="0.15" score="1.00" value="nous" start="130.21">
+            <prop value="nous" score="1.00"/>
+        </word>
+        <word length="0.32" score="1.00" value="venons" start="130.36">
+            <prop value="venons" score="1.00"/>
+        </word>
+        <word length="0.10" score="1.00" value="de" start="130.68">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.41" score="1.00" value="prendre" start="130.78">
+            <prop value="prendre" score="1.00"/>
+        </word>
+        <word length="0.13" score="0.997" value="et" start="131.98">
+            <prop value="et" score="0.997"/>
+        </word>
+        <word length="0.17" score="0.999" value="sur" start="132.11">
+            <prop value="sur" score="0.999"/>
+        </word>
+        <word length="0.33" score="0.999" value="laquelle" start="132.28">
+            <prop value="laquelle" score="0.999"/>
+        </word>
+        <word length="0.14" score="0.583" value="j'" start="132.6">
+            <prop value="j'" score="0.583"/>
+            <prop value="suis" score="0.414"/>
+        </word>
+        <word length="0.07" score="0.583" value="ai" start="132.68">
+            <prop value="ai" score="0.583"/>
+        </word>
+        <word length="0.47" score="0.785" value="engagé" start="132.74">
+            <prop value="engagé" score="0.785"/>
+            <prop value="engagée" score="0.211"/>
+        </word>
+        <word length="0.09" score="1.00" value="il" start="133.21">
+            <prop value="il" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="y" start="133.3">
+            <prop value="y" score="1.00"/>
+        </word>
+        <word length="0.29" score="1.00" value="a" start="133.43">
+            <prop value="a" score="1.00"/>
+        </word>
+        <word length="0.32" score="1.00" value="quelques" start="133.81">
+            <prop value="quelques" score="1.00"/>
+        </word>
+        <word length="0.44" score="1.00" value="jours" start="134.13">
+            <prop value="jours" score="1.00"/>
+        </word>
+        <word length="0.16" score="1.00" value="la" start="135.72">
+            <prop value="la" score="1.00"/>
+        </word>
+        <word length="0.97" score="1.00" value="responsabilité" start="135.88">
+            <prop value="responsabilité" score="1.00"/>
+        </word>
+        <word length="0.09" score="1.00" value="de" start="136.85">
+            <prop value="de" score="1.00"/>
+        </word>
+        <word length="0.13" score="1.00" value="mon" start="136.94">
+            <prop value="mon" score="1.00"/>
+        </word>
+        <word length="0.50" score="1.00" value="gouvernement" start="137.07">
+            <prop value="gouvernement" score="1.00"/>
+        </word>
+        <word length="0.21" score="1.00" value="avec" start="137.57">
+            <prop value="avec" score="1.00"/>
+        </word>
+        <word length="0.45" score="1.00" value="succès" start="137.78">
+            <prop value="succès" score="1.00"/>
+        </word>
+        <word length="0.32" score="1.00" value="sinon" start="138.69">
+            <prop value="sinon" score="1.00"/>
+        </word>
+        <word length="0.17" score="1.00" value="je" start="139.01">
+            <prop value="je" score="1.00"/>
+        </word>
+        <word length="0.06" score="0.998" value="ne" start="139.13">
+            <prop value="ne" score="0.998"/>
+        </word>
+        <word length="0.19" score="0.982" value="serais" start="139.18">
+            <prop value="serais" score="0.982"/>
+            <prop value="serai" score="0.0172"/>
+        </word>
+        <word length="0.11" score="1.00" value="pas" start="139.37">
+            <prop value="pas" score="1.00"/>
+        </word>
+        <word length="0.11" score="0.996" value="là" start="139.48">
+            <prop value="là" score="0.996"/>
+        </word>
+        <word length="0.16" score="0.995" value="pour" start="139.58">
+            <prop value="pour" score="0.995"/>
+        </word>
+        <word length="0.21" score="1.00" value="vous" start="139.72">
+            <prop value="vous" score="1.00"/>
+        </word>
+        <word length="0.06" score="0.999" value="en" start="139.93">
+            <prop value="en" score="0.999"/>
+        </word>
+        <word length="0.33" score="0.860" value="parler" start="139.99">
+            <prop value="parler" score="0.860"/>
+            <prop value="parlez" score="0.125"/>
+            <prop value="parlait" score="0.0142"/>
+        </word>
+    </sentence>
+</show>
